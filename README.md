@@ -1,4 +1,4 @@
-# In the event that I disappear off to Froopyland
+# In the event that I disappear off to Froopyland..
 
 Back in 2012, I moved to Belgium with my wife and started working with a bunch of techies who eventually became life-long friends.
 

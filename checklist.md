@@ -1,6 +1,6 @@
-# In case I disappear off to Froopyland
+# In case I disappear off to Froopyland..
 
-If you are reading this, I, like Timmy, have disappeared to Froopyland and I miss you already. There's a lot here, but the first order of business is telling people.
+If you are reading this, I, like Tommy, have disappeared to Froopyland and I miss you already. There's a lot here, but the first order of business is telling people.
 
 Contact the following friends and family directly before announcing it on Twitter. Open up my laptop, create a note, then copy/paste it to:
 
