@@ -12,3 +12,10 @@ jobs:
             --standalone
             --output=checklist.docx
             checklist.md
+
+      - name: commit if file changed
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: recreating word document
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
