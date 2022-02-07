@@ -11,14 +11,12 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.event.push.head.ref }}
-      - name: run conversion
-        run: |
-          sudo apt-get install pandoc
-          pandoc --standalone --output=checklist.docx checklist.md
-      - uses: actions/upload-artifact@master
+      - uses: docker://pandoc/core:2.9
         with:
-          name: checklist.docx
-          path: checklist.docx
+          args: >- # allows you to break string into multiple lines
+            --standalone
+            --output=checklist.docx
+            checklist.md
       - name: ⤴ Commit updated version
         run: |
           git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/potatoqualitee/froopyland-dr.git'
