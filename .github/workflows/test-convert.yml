@@ -8,7 +8,9 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.push.head.ref }}
       - name: run conversion
         run: |
           sudo apt-get install pandoc
@@ -22,6 +24,6 @@ jobs:
           git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/potatoqualitee/froopyland-dr.git'
           git config user.name potatoqualitee
           git config user.email clemaire@gmail.com
-          git add checklist.docx
+          git add .
           git commit -am "update word"
           git push
