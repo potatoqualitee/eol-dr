@@ -17,6 +17,9 @@ jobs:
           name: checklist.docx
           path: checklist.docx
 
+  temp_commit_test:
+    runs-on: ubuntu-latest
+    steps:
       - name: commit if file changed
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
