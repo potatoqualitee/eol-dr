@@ -6,18 +6,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - run: |
-          apt-get install pandoc
+      - name: run conversion
+        run: |
+          sudo apt-get install pandoc
           pandoc --standalone --output=checklist.docx checklist.md
       - uses: actions/upload-artifact@master
         with:
           name: checklist.docx
           path: checklist.docx
-
-  temp_commit_test:
-    needs: temp_conversion_via_pandoc
-    runs-on: ubuntu-latest
-    steps:
       - name: commit if file changed
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
