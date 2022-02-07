@@ -2,7 +2,7 @@ name: Convert markdown to Word
 on: push
 
 jobs:
-  convert_via_pandoc:
+  temp_conversion_via_pandoc:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -16,3 +16,10 @@ jobs:
         with:
           name: checklist.docx
           path: checklist.docx
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "recreate word doc"
+          commit_user_name: potatoqualitee
+          commit_user_email: clemaire@gmail.com
+          commit_author: Chrissy LeMaire <clemaire@gmail.com>
