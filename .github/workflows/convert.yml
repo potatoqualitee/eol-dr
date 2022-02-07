@@ -1,5 +1,4 @@
-name: Simple Usage
-
+name: Convert markdown to Word
 on: push
 
 jobs:
@@ -8,4 +7,7 @@ jobs:
     steps:
       - uses: docker://pandoc/core:2.9
         with:
-          args: "--help" # gets appended to pandoc command
+          args: >- # allows you to break string into multiple lines
+            --standalone
+            --output=checklist.docx
+            checklist.md
