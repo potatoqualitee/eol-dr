@@ -18,6 +18,7 @@ jobs:
           path: checklist.docx
 
   temp_commit_test:
+    needs: temp_conversion_via_pandoc
     runs-on: ubuntu-latest
     steps:
       - name: commit if file changed
