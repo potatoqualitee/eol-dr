@@ -18,5 +18,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: refreshing word doc
+          commit_user_name: potatoqualitee
+          commit_user_email: clemaire@gmail.com
+          commit_author: Chrissy LeMaire clemaire@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
