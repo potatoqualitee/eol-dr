@@ -1,6 +1,6 @@
 # In case I disappear off to Froopyland
 
-If you are reading this, I, like Timmy, have disappeared to Froopyland. There's a lot here, but the first order of business is telling people.
+If you are reading this, I, like Timmy, have disappeared to Froopyland and I miss you already. There's a lot here, but the first order of business is telling people.
 
 Contact the following friends and family directly before announcing it on Twitter. Open up my laptop, create a note, then copy/paste it to:
 
@@ -15,6 +15,8 @@ Contact the following friends and family directly before announcing it on Twitte
 Then let ppl on Twitter, Facebook and Instagram know.
 
 ## Tech
+
+This section covers the topics that will help you access my emails and website logins. It'll also let you know who to give my tech things to or who to ask for help when something breaks.
 
 ### Emails
 
@@ -65,8 +67,9 @@ You know how to use this since we've incorporated it into our lives.
 * Ask Peter how to expand Plex but we don’t add anything to it so it shouldn’t be a problem
 
 ### Wireless network
-* Give whoever our wireless if it breaks and you can’t bring it up by unplugging for 1 minute and replugging
-* Pay them to replace it with something easy, I don’t have a recommendation because I have no idea since Apple doesn’t sell routers anymore
+
+* Give Joe all of our Unifi wireless devices if something goes wrong and you can’t bring it up by unplugging for 1 minute and replugging
+* Pay him to replace it with something easy, I don’t have a recommendation because I have no idea since Apple doesn’t sell routers anymore
 * Peter is probably good to ask since he doesn’t do advanced networking
 
 ### Social Media accounts
