@@ -6,6 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+
+      - name: convert md to docx
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
@@ -13,9 +15,8 @@ jobs:
             --output=checklist.docx
             checklist.md
 
-      - name: commit if file changed
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: upload checklist.docx to artifacts
+      - uses: actions/upload-artifact@master
         with:
-          commit_message: recreating word document
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: checklist.docx
+          path: checklist.docx
