@@ -1,0 +1,20 @@
+name: Convert markdown to Word
+on: push
+
+jobs:
+  temp_conversion_via_pandoc:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: >- # allows you to break string into multiple lines
+            --standalone
+            --output=checklist.docx
+            checklist.md
+      - uses: actions/upload-artifact@master
+        with:
+          name: checklist.docx
+          path: checklist.docx
