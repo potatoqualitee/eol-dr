@@ -17,9 +17,9 @@ jobs:
           name: checklist.docx
           path: checklist.docx
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: commit if file changed
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "recreate word doc"
-          commit_user_name: potatoqualitee
-          commit_user_email: clemaire@gmail.com
-          commit_author: Chrissy LeMaire <clemaire@gmail.com>
+          commit_message: refreshing word doc
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
