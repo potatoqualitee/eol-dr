@@ -5,6 +5,7 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v1
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
