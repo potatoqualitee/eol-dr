@@ -22,5 +22,6 @@ jobs:
           git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/potatoqualitee/froopyland-dr.git'
           git config user.name potatoqualitee
           git config user.email clemaire@gmail.com
+          git add checklist.docx
           git commit -am "update word"
           git push
