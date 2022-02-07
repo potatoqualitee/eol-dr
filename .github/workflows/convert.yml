@@ -6,16 +6,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-
-      - name: convert md to docx
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
             --standalone
             --output=checklist.docx
             checklist.md
-
-      - name: upload checklist.docx to artifacts
       - uses: actions/upload-artifact@master
         with:
           name: checklist.docx
