@@ -4,6 +4,9 @@ on: push
 jobs:
   temp_conversion_via_pandoc:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
       - uses: actions/checkout@v1
       - name: run conversion
@@ -14,12 +17,10 @@ jobs:
         with:
           name: checklist.docx
           path: checklist.docx
-      - name: commit if file changed
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: refreshing word doc
-          commit_user_name: potatoqualitee
-          commit_user_email: clemaire@gmail.com
-          commit_author: Chrissy LeMaire clemaire@gmail.com>
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: ⤴ Commit updated version
+        run: |
+          git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/potatoqualitee/froopyland-dr.git'
+          git config user.name potatoqualitee
+          git config user.email clemaire@gmail.com
+          git commit -am "update word"
+          git push
