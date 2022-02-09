@@ -102,6 +102,24 @@ SUPER IMPORTANT because these bills can get big quickly
 * Amazon Web Services charges 5 cents a month and is hooked up to our Amazon account, so you can just leave it forever
 * Appveyor – Billy Dominguez will know what to do. Please get in touch with him at some point because if this bill isn't paid each year, then the tests will fail in our repository.
 
+### Online Storage & Photo Backups
+
+**Photo Backups**
+
+We both have this installed on our phones [backup service] is used to backup all our pictures to the cloud, it uploads them automatically so you probably don't know it is there. It is important though as [backup service] contains all of our memories. 
+
+* You can login to the web version [here]() details are in KeePass
+* From here you can download individual pictures, change the password to the account or download all of the photos to your computer if you wish.
+* Don't just close the account though as you will loose the photos.  
+
+**Cloud Storage** 
+
+We have some documents stored on [cloud storage provider], I also have lots of things stored there that you might want to view, TV License receipts, renewal documents for the car things like that. 
+
+* You can login to the web version [here]() details are in KeePass
+* From here you can download individual files, change the password etc. 
+* Even if you don't use this it is a good idea to keep it as some of the files you might need in the future.
+
 ### Websites
 
 * BlueHost – let Blake know to look out for a bill each March as this is where fakblog.com is hosted
