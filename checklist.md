@@ -120,16 +120,6 @@ We have some documents stored on [cloud storage provider], I also have lots of t
 * From here you can download individual files, change the password etc. 
 * Even if you don't use this it is a good idea to keep it as some of the files you might need in the future.
 
-### Local Storage & Backups 
-
-Like the above online storage and backups we have a NAS, you know the little black box in the closet with the flashing lights on the front, there is a label on it that says [what does it say].
-
-This little black box stores all of our backups that we don't want going to the internet, all of our electronic documents, our films our digital life is on here so it is **IMPORTANT** that If you decide that you don't want to keep it contact [person] who will help you wipe it (delete everything), whatever you do don't just throw it in the bin.
-
-* You can login to the web portal [here]() details are in KeePass
-* From here you can view/download individual files, change the password etc. 
-* If you login to my computer details also in KeePass you will see a folder called [folder name] this is everything on the NAS, you can navigate through it just like any other folder on the computer. 
-
 ### Websites
 
 * BlueHost – let Blake know to look out for a bill each March as this is where fakblog.com is hosted
