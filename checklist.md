@@ -50,6 +50,8 @@ You know how to use this since we've incorporated it into our lives.
 * Hulu
 * Spotify
   * Just keep this account since it’s a family account
+* NordVPN
+  * It's unlikely you'll need this, just cancel
 * Apple Subscriptions
   * Open Apple iPhone
   * Click Settings
