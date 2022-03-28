@@ -257,3 +257,10 @@ Our accountant Tracey Calendar (tracey@calendarcpa.com) can help you figure out 
 Ask our accountant or look over our finances to see any new 1099s if this list gets outdated.
 
 Also, if you feel overwhelmed by all of this, ask her to perhaps switch the way we pay our taxes and don't take deductions.
+
+### Answers to common security questions
+
+* First dog: Jackson
+* Dad's middle name: Henry
+* Mom's maiden name: Smithe
+* Street I grew up on: Maine Street
