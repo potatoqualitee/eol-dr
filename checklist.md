@@ -75,10 +75,25 @@ You know how to use this since we've incorporated it into our lives.
 
 ### Restarting network services
 
-* If the Hue lights break, check the Hue Hub upstairs in the storage room; it's a little white square. You probably just need to restart it by unplugging it and waiting 10 seconds.
 * If the Internet goes out, restart the black modem like you always do (by waiting 10 seconds). If that doesn't work, unplug it physically, then physically plug it back in.
 * If that doesn't work, unplug the white disk upstairs and the white disk downtairs. Wait literally 20 minutes because Unifi is wild and takes forever to restart.
 * If that doesn't work either, check to see if there are any voo outages. If not, wait or call Peter.
+
+### Home automation / IoT (Hue, etc)
+
+If you change the name of the wifi (like if you move and use the ISP's built-in wifi), then you will have to reconnect:
+
+* Hue Hub
+  * If the Hue lights break, check the Hue Hub upstairs in the storage room; it's a little white square. You probably just need to restart it by unplugging it and waiting 10 seconds.
+* Sonos speakers
+* Roku, AppleTV and the Firestick
+* iRobot vacuum
+* Dyson air purifiers
+* Ring cameras
+* Power consumption monitors
+  * Ensure that everything you want to monitor is plugged into a smart plug
+
+Considering that, you might want to ask Michelle to setup the ISP's built-in wifi with the same name of our current wifi (`potatopie`).
 
 ### Social Media accounts
 
