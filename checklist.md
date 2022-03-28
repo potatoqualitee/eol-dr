@@ -98,7 +98,7 @@ Fortunately, you're familiar with this because I require you to be :blush:. This
 
 SUPER IMPORTANT because these bills can get big quickly
 
-* Microsoft Azure + Power BI - to delete sponsorship subscription and transfer resources – contact Michelle and have her walk you through it. I can't find a direct email like billing@azure.com to help. Our MVP lead, Rie Scottish, may also be able to help.
+* Microsoft Azure + Power BI - to delete sponsorship subscription and transfer resources – contact Michelle and have her walk you through it. The phone number is listed on [this page](https://docs.microsoft.com/en-us/microsoft-365/admin/get-help-support?view=o365-worldwide&tabs=online#phone-support): +1-800-865-9408
 * Amazon Web Services charges 5 cents a month and is hooked up to our Amazon account, so you can just leave it forever
 * Appveyor – Billy Dominguez will know what to do. Please get in touch with him at some point because if this bill isn't paid each year, then the tests will fail in our repository.
 
