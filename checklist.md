@@ -110,7 +110,7 @@ We both have this installed on our phones [backup service] is used to backup all
 
 * You can login to the web version [here]() details are in KeePass
 * From here you can download individual pictures, change the password to the account or download all of the photos to your computer if you wish.
-* Don't just close the account though as you will loose the photos.  
+* Don't just close the account though as you will lose the photos.  
 
 **Cloud Storage** 
 
