@@ -4,12 +4,12 @@ If you are reading this, I, like Tommy, have disappeared to Froopyland and I mis
 
 Contact the following friends and family directly before announcing it on Twitter. Open up my laptop, create a note, then copy/paste it to:
 
-* iMessages: Blake, Brother, Brother 2, Janet, Brandy
+* iMessages: Blake, Brother, Brother 2
 * WhatsApp: Aaron
 * Facebook: Dad, dad’s phone number is in my phone too
 * Skype: Peter
-* Discord: Look in my chat list and message anyone I've talked about recently. So far, it's David, Sandra, Jenn and Claudette.
-* Google chat or email: Ronny, Melanie
+* Discord: Look in my chat list and message anyone I've talked about recently. So far, it's David, Jenn and Claudette.
+* Google chat or email: Melanie
 * Instagram or email: JoeB
 
 Then let ppl on Twitter, Facebook and Instagram know.
@@ -71,8 +71,14 @@ You know how to use this since we've incorporated it into our lives.
 ### Wireless network
 
 * Give Joe all of our Unifi wireless devices if something goes wrong and you can’t bring it up by unplugging for 1 minute and replugging
-* Pay him to replace it with something easy, I don’t have a recommendation because I have no idea since Apple doesn’t sell routers anymore
-* Peter is probably good to ask since he doesn’t do advanced networking
+* Pay him to replace it with something easy. If you move to a smaller place, you can just use the wifi router from the ISP.
+
+### Restarting network services
+
+* If the Hue lights break, check the Hue Hub upstairs in the storage room; it's a little white square. You probably just need to restart it by unplugging it and waiting 10 seconds.
+* If the Internet goes out, restart the black modem like you always do (by waiting 10 seconds). If that doesn't work, unplug it physically, then physically plug it back in.
+* If that doesn't work, unplug the white disk upstairs and the white disk downtairs. Wait literally 20 minutes because Unifi is wild and takes forever to restart.
+* If that doesn't work either, check to see if there are any voo outages. If not, wait or call Peter.
 
 ### Social Media accounts
 
