@@ -155,13 +155,16 @@ You use PayPal a lot, so don't close it but feel free to ask a friend to help yo
   * Checking / Savings
   * Good loan rates
   * Can pay international bills via IBAN
+  * PIN for card: 2553
 * United States Bank 
   * Checking / Savings
   * Has great reputation for car insurance and other insurances
   * Cannot pay IBAN bills
+  * PIN for card: Stored in Password1
 * First Business of America
   * Get the money out and cancel it
   * It’s an old business account that sometimes came in handy for me but high monthly fees
+  * PIN for card: No idea, I don't use it
 * PayPal
   * Login with me@fake.com like you always do along with 2FA
 * VirtCoin
