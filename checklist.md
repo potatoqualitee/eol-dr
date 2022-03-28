@@ -264,3 +264,11 @@ Also, if you feel overwhelmed by all of this, ask her to perhaps switch the way 
 * Dad's middle name: Henry
 * Mom's maiden name: Smithe
 * Street I grew up on: Maine Street
+* First car: Toyota Celica
+* First School: Menlo Elementary
+
+### Physical Security
+
+* Medicine cabinet PIN: 59938
+* Weapons cabinet PIN: 9119119
+* Safe combo: Left - 89, right 33, Spin twice left then: 51
