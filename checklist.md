@@ -179,6 +179,7 @@ You use PayPal a lot, so don't close it but feel free to ask a friend to help yo
   * Good loan rates
   * Can pay international bills via IBAN
   * PIN for card: 2553
+  * Funds available for immediate use after joint holder is deceased. Spoke with Jan Dodekens and set aside 20,000 euros
 * United States Bank 
   * Checking / Savings
   * Has great reputation for car insurance and other insurances
