@@ -268,7 +268,7 @@ Contact Fidelity to learn how to invest your insurance money
 
 ### Accountant
 
-Our accountant Tracey Calendar (tracey@calendarcpa.com) can help you figure out a lot of things and perhaps give you advice on anything I missed. They know our financial history form the past 10 years.
+Our accountant Tracey Calendar (tracey@calendarcpa.com) can help you figure out a lot of things and perhaps give you advice on anything I missed. They know our financial history from the past 10 years.
 
 Ask our accountant or look over our finances to see any new 1099s if this list gets outdated.
 
