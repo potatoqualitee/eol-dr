@@ -27,7 +27,7 @@ As you know, I primarily use me@fake.com. You can login through my phone or lapt
 
 Add me@fake.com to your phone, actually, since that's where we get our shipping alerts.
 
-### Domains
+### Domains and blogs
 
 * All of my domains are managed via Google Domains and CloudFlare
   * Google Domains auto renews and needs an updated Credit Card to keep going
