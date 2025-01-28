@@ -32,3 +32,6 @@ So here is the checklist:
 # You may also be interested in...
 
 [In Case You Get Hit by a Bus](https://www.amazon.com/Case-You-Get-Hit-Bus/dp/1523510471)
+[The Next of Kin box](https://www.thenokbox.com/)
+[Digital Legacy Trust](https://legacytrust.nz)
+[Evergreen Blogs](https://rishikeshs.com/journal/evergreen-blogs/)
