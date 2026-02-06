@@ -34,4 +34,5 @@ So here is the checklist:
 [In Case You Get Hit by a Bus](https://www.amazon.com/Case-You-Get-Hit-Bus/dp/1523510471)
 [The Next of Kin box](https://www.thenokbox.com/)
 [Digital Legacy Trust](https://legacytrust.nz)
+[Rememory](https://github.com/eljojo/rememory) - A digital safe with multiple keys designed for non-techies, where important information can be split among trusted contacts and recovered after a tragic event
 [Evergreen Blogs](https://rishikeshs.com/journal/evergreen-blogs/)
