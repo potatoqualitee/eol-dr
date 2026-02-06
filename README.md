@@ -31,8 +31,10 @@ So here is the checklist:
 
 # You may also be interested in...
 
-[In Case You Get Hit by a Bus](https://www.amazon.com/Case-You-Get-Hit-Bus/dp/1523510471)
-[The Next of Kin box](https://www.thenokbox.com/)
-[Digital Legacy Trust](https://legacytrust.nz)
-[Rememory](https://github.com/eljojo/rememory) - A digital safe with multiple keys designed for non-techies, where important information can be split among trusted contacts and recovered after a tragic event
-[Evergreen Blogs](https://rishikeshs.com/journal/evergreen-blogs/)
+| Resource | Description |
+|----------|-------------|
+| [In Case You Get Hit by a Bus](https://www.amazon.com/Case-You-Get-Hit-Bus/dp/1523510471) | A comprehensive guide book on organizing your personal and business information for loved ones in case of emergency or death |
+| [The Next of Kin box](https://www.thenokbox.com/) | A physical emergency information storage solution - a fireproof box with checklist for organizing critical documents and information |
+| [Digital Legacy Trust](https://legacytrust.nz) | A New Zealand-based service that helps manage and distribute digital assets and information to designated beneficiaries |
+| [Rememory](https://github.com/eljojo/rememory) | A digital safe with multiple keys designed for non-techies, where important information can be split among trusted contacts and recovered after a tragic event |
+| [Evergreen Blogs](https://rishikeshs.com/journal/evergreen-blogs/) | A curated collection of personal blogs and websites with timeless content, reminding us of the importance of preserving digital legacies |
