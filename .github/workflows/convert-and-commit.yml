@@ -1,17 +1,24 @@
 name: Convert markdown to Word
+
 on:
   push:
     branches:
       - main
+    paths:
+      - checklist.md
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.event.push.head.ref }}
-      - uses: docker://pandoc/core:2.9
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: docker://pandoc/core:3.10.0.0
         with:
           args: >- # allows you to break string into multiple lines
             --standalone
@@ -19,9 +26,12 @@ jobs:
             checklist.md
       - name: ⤴ Commit updated version
         run: |
-          git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/potatoqualitee/froopyland-dr.git'
-          git config user.name potatoqualitee
-          git config user.email clemaire@gmail.com
-          git add .
-          git commit -am "update word"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add checklist.docx
+          if git diff --cached --quiet; then
+            echo "checklist.docx is already up to date"
+          else
+            git commit -m "Regenerate checklist.docx"
+            git push
+          fi
