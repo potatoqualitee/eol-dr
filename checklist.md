@@ -61,7 +61,7 @@ You know how to use this since we've incorporated it into our lives.
 
 ### Homelabs
 
-* DO NOT SELL WITHOUT FORMATTING OR DESTROYING DISKS. This could be an identity theft disaster.
+* DO NOT SELL WITHOUT FORMATTING OR DESTROYING DISKS. This could be an identity theft disaster. This goes for drives of any kind — spinning hard drives, SSDs, and the little stick-shaped ones called M.2 or NVMe.
 * Janet can have my “big” black boxes (doesn’t need formatting) and my little black box called a NUC (needs formatting)
 * Peter can have my Macs
   * Needs formatting AND needs to follow instructions from Apple to disconnect it from Find My or they’ll be prevented from using it
@@ -112,10 +112,26 @@ Fortunately, you're familiar with this because I require you to be :blush:. This
   * Authy 
     * I default to this most of the time unless it's not available
   * Microsoft Authenticator
+* If my phone is lost or wiped, Microsoft Authenticator can be restored: install it on a new phone, sign in with me@fake.com, and the codes come back from its cloud backup
+  * Cloud-backed authenticator apps like this are the easiest for you to recover, which is why I use them for the important accounts
+* My YubiKey (a little USB stick that unlocks some accounts when you plug it in) is stored in _____. It unlocks _____ and the spare is in _____
+* The important accounts also handed out one-time backup/recovery codes when I set up 2FA — they're printed and stored with this document (see "Keep a hard copy" below)
 * Some accounts require a US phone number for SMS, so use the me@fake.com Google Voice account phone number
   * If you see that they sent it to phone number 555-555-5555, then that is the Google Voice account
 * Remember to avoid using SMS for 2FA if it's possible, because it's less safe
 * Keep using Authy for your own accounts when you can
+
+### Keep a hard copy
+
+Hopefully you're reading this from the printout in the fireproof bag. Some things only exist on paper on purpose:
+
+* My KeePass master password (written on the printed copy of this document)
+* The PIN to unlock my phone
+* The 2FA backup/recovery codes mentioned above
+
+I have a calendar reminder every 6 months to reprint this when something changes. If this printout looks ancient, check for a newer version before trusting the details.
+
+If keeping paper up to date sounds like a chore for your own copy of this list, password managers can handle it digitally — Bitwarden Emergency Access and 1Password's Emergency Kit give a trusted person access after a waiting period, with nothing to reprint.
 
 ### Cloud Subscriptions
 
@@ -161,7 +177,8 @@ This little black box stores all of our backups that we don't want going to the 
 
 ### Tech Tips
 
-* Do not EVER sell anything with a hard drive without formatting the hard drives first. Ask any of our tech friends to help.
+* Do not EVER sell anything with storage in it without wiping it first — that means spinning hard drives, SSDs, and the little stick-shaped ones called M.2 or NVMe. Ask any of our tech friends to help.
+* A simple format does not reliably erase an SSD. Use the manufacturer's secure-erase tool, or if the drive was always encrypted, destroying the encryption key is enough. When in doubt, keep the drive or have a tech friend physically destroy it — never just throw it in the bin.
 * Do not EVER try to sell an Apple product without following their instructions to wipe before reselling. Apple is special and associates Find My with your account so it prevents theft. The person won’t be able to use it if you don’t unregister the device.
 
 ## Input
@@ -274,7 +291,24 @@ Ask our accountant or look over our finances to see any new 1099s if this list g
 
 Also, if you feel overwhelmed by all of this, ask her to perhaps switch the way we pay our taxes and don't take deductions.
 
+### Legal documents
+
+* Our wills are stored _____ and the attorney has the originals
+* Powers of attorney and healthcare directives are stored with the wills
+* Our attorney is _____ — contact them early, they'll walk you through what needs to be filed and when
+
+### For retirees
+
+If you're adapting this checklist and you're retired (or close to it), your partner will also need:
+
+* Who to notify at the pension fund and how survivor payments get arranged
+* Whether health/sickness insurance continues for the surviving partner and what they must do to keep it
+* How savings accounts for grandchildren or other beneficiaries transfer or continue
+* In much of Europe, banks freeze ALL of the deceased's accounts — including joint ones — as soon as they're notified. Talk to your bank in advance so your partner has accessible funds while the estate is settled (see the set-aside note under Bank Accounts).
+
 ### Answers to common security questions
+
+Check KeePass first: for most accounts, my security answers are randomly generated nonsense stored in the notes or custom fields of that account's entry, because honest answers can be guessed or googled. The answers below are only for the old accounts where I answered honestly.
 
 * First dog: Jackson
 * Dad's middle name: Henry
@@ -288,3 +322,20 @@ Also, if you feel overwhelmed by all of this, ask her to perhaps switch the way 
 * Medicine cabinet PIN: 59938
 * Weapons cabinet PIN: 9119119
 * Safe combo: Left - 89, right 33, Spin twice left then: 51
+
+## Final wishes
+
+### Obituary and service
+
+* Notes for my obituary are in _____ — the highlights I'd want mentioned and the things I'd rather you leave out
+* Songs and readings for the service: _____
+* Cremation or burial preference: _____
+
+### Pets
+
+* Our vet is _____ (name and phone)
+* Food, meds and quirks: _____
+* _____ has agreed to take them if it's too much
+* Current photos for ID (in case they bolt during the chaos) are in _____
+
+The wills, powers of attorney and our attorney's contact info are under Legal documents above.
