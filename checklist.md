@@ -2,17 +2,17 @@
 
 If you are reading this, I, like Tommy, have disappeared to Froopyland and I miss you already. There's a lot here, but the first order of business is telling people.
 
-Contact the following friends and family directly before announcing it on Twitter. Open up my laptop, create a note, then copy/paste it to:
+Contact the following friends and family directly before announcing it on X (Twitter). Open up my laptop, create a note, then copy/paste it to:
 
 * iMessages: Blake, Brother, Brother 2
 * WhatsApp: Aaron
 * Facebook: Dad, dad’s phone number is in my phone too
-* Skype: Peter
+* Signal: Peter
 * Discord: Look in my chat list and message anyone I've talked about recently. So far, it's David, Jenn and Claudette.
 * Google chat or email: Melanie
 * Instagram or email: JoeB
 
-Then let ppl on Twitter, Facebook and Instagram know.
+Then let ppl on X (Twitter), Facebook and Instagram know.
 
 ## Tech
 
@@ -29,9 +29,9 @@ Add me@fake.com to your phone, actually, since that's where we get our shipping 
 
 ### Domains and blogs
 
-* All of my domains are managed via Google Domains and CloudFlare
-  * Google Domains auto renews and needs an updated Credit Card to keep going
-* xyz.io – Keep this paid via Google Domains or transfer to Danielle Smith 
+* All of my domains are managed via Squarespace Domains and Cloudflare
+  * Squarespace auto renews and needs an updated Credit Card to keep going
+* xyz.io – Keep this paid via Squarespace or transfer to Danielle Smith 
 * fakblog.com – Transfer to Blake
 
 ### Password Managers
@@ -57,7 +57,7 @@ You know how to use this since we've incorporated it into our lives.
   * Click Settings
   * Click the big thing at the top with my name
   * Click Subscriptions
-  * Delete anything you don’t want like Wondery+, Twitter, or Apple News
+  * Delete anything you don’t want like Wondery+, X (Twitter), or Apple News
 
 ### Homelabs
 
@@ -76,7 +76,7 @@ You know how to use this since we've incorporated it into our lives.
 ### Restarting network services
 
 * If the Internet goes out, restart the black modem like you always do (by waiting 10 seconds). If that doesn't work, unplug it physically, then physically plug it back in.
-* If that doesn't work, unplug the white disk upstairs and the white disk downtairs. Wait literally 20 minutes because Unifi is wild and takes forever to restart.
+* If that doesn't work, unplug the white disk upstairs and the white disk downstairs. Wait literally 20 minutes because Unifi is wild and takes forever to restart.
 * If that doesn't work either, check to see if there are any voo outages. If not, wait or call Peter.
 
 ### Home automation / IoT (Hue, etc)
@@ -98,9 +98,9 @@ Considering that, you might want to ask Michelle to setup the ISP's built-in wif
 ### Social Media accounts
 
 * Everything can be logged in with KeePass + the multi-factor apps on my phone (Authy or Microsoft Authenticator)
-* Don’t close Twitter for a few years
-  * If you sell my Twitter, make it worth your time, like 1 million then ask a friend to delete all my old posts
-  * This will probably require some sort of service because Twitter makes things hard
+* Don’t close X (Twitter) for a few years
+  * If you sell my X account, make it worth your time, like 1 million then ask a friend to delete all my old posts
+  * This will probably require some sort of service because X makes things hard
 * Export and close FB, I only stayed there for Niki's memorial page and my business page anyway
 * Instagram may be enjoyable for you to look back on since it's just us on vacation :kiss:
 
@@ -112,8 +112,8 @@ Fortunately, you're familiar with this because I require you to be :blush:. This
   * Authy 
     * I default to this most of the time unless it's not available
   * Microsoft Authenticator
-* Some accounts require a US phone number for SMS, so use the me@fake.com Skype account phone number
-  * If you see that they sent it to phone number 555-555-5555, then that is the Skype account
+* Some accounts require a US phone number for SMS, so use the me@fake.com Google Voice account phone number
+  * If you see that they sent it to phone number 555-555-5555, then that is the Google Voice account
 * Remember to avoid using SMS for 2FA if it's possible, because it's less safe
 * Keep using Authy for your own accounts when you can
 
@@ -121,7 +121,7 @@ Fortunately, you're familiar with this because I require you to be :blush:. This
 
 SUPER IMPORTANT because these bills can get big quickly
 
-* Microsoft Azure + Power BI - to delete sponsorship subscription and transfer resources – contact Michelle and have her walk you through it. The phone number is listed on [this page](https://docs.microsoft.com/en-us/microsoft-365/admin/get-help-support?view=o365-worldwide&tabs=online#phone-support): +1-800-865-9408
+* Microsoft Azure + Power BI - to delete sponsorship subscription and transfer resources – contact Michelle and have her walk you through it. The phone number is listed on [this page](https://learn.microsoft.com/en-us/microsoft-365/admin/get-help-support#phone-support): +1-800-865-9408
 * Amazon Web Services charges 5 cents a month and is hooked up to our Amazon account, so you can just leave it forever
 * Appveyor – Billy Dominguez will know what to do. Please get in touch with him at some point because if this bill isn't paid each year, then the tests will fail in our repository.
 
@@ -157,7 +157,7 @@ This little black box stores all of our backups that we don't want going to the 
 
 * BlueHost – let Blake know to look out for a bill each March as this is where fakblog.com is hosted
   * Transfer ownership to Blake and have him contact Bluehost support to reset all passwords
-* CloudFlare – this does some advanced shit but is free. Login via Authy. Blake may want to know this too.
+* Cloudflare – this does some advanced shit but is free. Login via Authy. Blake may want to know this too.
 
 ### Tech Tips
 
@@ -172,7 +172,7 @@ This is the section where money lands or exists.
 
 We have a couple bank accounts that serve different purposes. One is good for paying international bills, the other comes with some great insurance, and yet another is an old account I've had for a while. It's good for your credit to have a couple bank accounts too.
 
-You use PayPal a lot, so don't close it but feel free to ask a friend to help you change the email addres if you want. It may come with further confirmation.
+You use PayPal a lot, so don't close it but feel free to ask a friend to help you change the email address if you want. It may come with further confirmation.
 
 * Fak Bank
   * Checking / Savings

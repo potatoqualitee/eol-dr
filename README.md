@@ -22,7 +22,7 @@ I put together an initial draft to answer these questions for my own wife, and t
 
 Within hours of this interaction, I created a Word document, printed it out, filled in a couple passwords manually, and then stored it in a fire proof bag.
 
-Here is a sanitized list that you can use for your own purposes. If anything is missing or you have suggestions, please feel free to submit a PR. Upon approval, the Word doc will be regenerated for others.
+Here is a sanitized list that you can use for your own purposes. If anything is missing or you have suggestions, please feel free to submit a PR (see [CONTRIBUTING.md](CONTRIBUTING.md)). Upon approval, the Word doc will be regenerated for others.
 
 So here is the checklist:
 
@@ -35,6 +35,5 @@ So here is the checklist:
 |----------|-------------|
 | [In Case You Get Hit by a Bus](https://www.amazon.com/Case-You-Get-Hit-Bus/dp/1523510471) | A comprehensive guide book on organizing your personal and business information for loved ones in case of emergency or death |
 | [The Next of Kin box](https://www.thenokbox.com/) | A physical emergency information storage solution - a fireproof box with checklist for organizing critical documents and information |
-| [Digital Legacy Trust](https://legacytrust.nz) | A New Zealand-based service that helps manage and distribute digital assets and information to designated beneficiaries |
 | [Rememory](https://github.com/eljojo/rememory) | A digital safe with multiple keys designed for non-techies, where important information can be split among trusted contacts and recovered after a tragic event |
 | [Evergreen Blogs](https://rishikeshs.com/journal/evergreen-blogs/) | A curated collection of personal blogs and websites with timeless content, reminding us of the importance of preserving digital legacies |
