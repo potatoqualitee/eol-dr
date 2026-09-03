@@ -32,7 +32,7 @@ Add me@fake.com to your phone, actually, since that's where we get our shipping 
 * All of my domains are managed via Squarespace Domains and Cloudflare
   * Squarespace auto renews and needs an updated Credit Card to keep going
 * xyz.io – Keep this paid via Squarespace or transfer to Danielle Smith 
-* fakblog.com – Transfer to Blake
+* fakeblog.com – Transfer to Blake
 
 ### Password Managers
 
@@ -171,7 +171,7 @@ This little black box stores all of our backups that we don't want going to the 
 
 ### Websites
 
-* BlueHost – let Blake know to look out for a bill each March as this is where fakblog.com is hosted
+* BlueHost – let Blake know to look out for a bill each March as this is where fakeblog.com is hosted
   * Transfer ownership to Blake and have him contact Bluehost support to reset all passwords
 * Cloudflare – this does some advanced shit but is free. Login via Authy. Blake may want to know this too.
 
@@ -191,7 +191,7 @@ We have a couple bank accounts that serve different purposes. One is good for pa
 
 You use PayPal a lot, so don't close it but feel free to ask a friend to help you change the email address if you want. It may come with further confirmation.
 
-* Fak Bank
+* Fake Bank
   * Checking / Savings
   * Good loan rates
   * Can pay international bills via IBAN
@@ -236,12 +236,12 @@ Call Fidelity to ask for some advice if you need. I just set it and forget it.
 
 ## Output
 
-This is the section with bills and things you gotta pay. Everything is on auto-pay so no stress. Just keep money in Fak Bank and United States Bank.
+This is the section with bills and things you gotta pay. Everything is on auto-pay so no stress. Just keep money in Fake Bank and United States Bank.
 
 ### Ongoing Insurance Accounts
 
 * State Farm has all of our car and house and umbrella insurances
-  * They charge like $100/mo to Fak Bank
+  * They charge like $100/mo to Fake Bank
 * Aetna International Health Insurance
   * The app is on my phone
   * Just pay first, then upload bills and they’ll pay you back
@@ -252,10 +252,10 @@ This is the section with bills and things you gotta pay. Everything is on auto-p
   * Emergency Credit Card has 50k limit
   * Has a high APR so don’t use it unless you have to
   * It’s set to auto-pay so if you charge 50k in one month, that’ll be deducted from your bank account at the end of the month so again, be careful
-* Fak Bank 
+* Fake Bank 
   * Holds our car loan and $550 is deducted each month automatically. Will be paid off in Jan 2025.
 * Fannie Mae
-  * Holds our student loans, $1200 is deducted each month automatically from Fak Bank. Should be paid off in 3 years. Consider paying these off with insurance money ahead of time to save on interest.
+  * Holds our student loans, $1200 is deducted each month automatically from Fake Bank. Should be paid off in 3 years. Consider paying these off with insurance money ahead of time to save on interest.
 
 ### Cell Phone & Internet
 
